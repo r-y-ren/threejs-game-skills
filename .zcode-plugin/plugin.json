@@ -1,0 +1,13 @@
+{
+  "name": "threejs-game-skills",
+  "version": "0.1.0",
+  "description": "Three.js 浏览器游戏开发技能集：game-director 总路由，玩法 / 画质 / UI / 资产生成 / 调试 / QA 发布九技能。上游 MIT（Majid Manzarpour）。",
+  "homepage": "https://github.com/r-y-ren/threejs-game-skills",
+  "repository": "https://github.com/majidmanzarpour/threejs-game-skills",
+  "keywords": [
+    "threejs",
+    "game",
+    "webgl",
+    "skills"
+  ]
+}

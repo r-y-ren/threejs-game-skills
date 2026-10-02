@@ -1,3 +1,11 @@
+# Three.js Game Skills（ZCode 插件包装）
+
+> 本仓库是 [majidmanzarpour/threejs-game-skills](https://github.com/majidmanzarpour/threejs-game-skills)（MIT）的 ZCode 插件包装：仅添加根 `marketplace.json` 与 `.zcode-plugin/plugin.json`，技能内容随上游同步（`git pull upstream main`）。
+
+**ZCode 安装**：设置 → 插件管理 → 发现 → + 添加市场 `https://github.com/r-y-ren/threejs-game-skills.git`，然后安装 threejs-game-skills 插件。
+
+---
+
 # Three.js Game Skills
 
 Self-contained Codex and Claude Code skills for building playable, polished Three.js browser games. Install the skills, then ask your agent to use `threejs-game-director`; the director routes gameplay, graphics, UI, asset generation, audio, debugging, and release verification without requiring users to choose every specialist skill manually.

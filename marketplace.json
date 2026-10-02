@@ -1,0 +1,15 @@
+{
+  "name": "threejs-game-skills",
+  "description": "Three.js 浏览器游戏开发技能集（9 技能）：threejs-game-director 端到端总路由，玩法系统 / AAA 画质 / 游戏 UI / 3D·图像·音频资产生成 / 调试剖析 / QA 发布各司其职。上游 majidmanzarpour/threejs-game-skills 的 ZCode 插件包装。",
+  "owner": {
+    "name": "r-y-ren"
+  },
+  "plugins": [
+    {
+      "name": "threejs-game-skills",
+      "description": "九个 Three.js 游戏技能：threejs-game-director（入口路由）、threejs-gameplay-systems（玩法循环）、threejs-aaa-graphics-builder（画质）、threejs-game-ui-designer（UI）、threejs-3d-generator（3D 资产）、threejs-image-generator（图像资产）、threejs-audio-generator（音频）、threejs-debug-profiler（调试）、threejs-qa-release（测试发布）。",
+      "version": "0.1.0",
+      "source": "./"
+    }
+  ]
+}
